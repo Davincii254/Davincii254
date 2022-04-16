@@ -1,5 +1,8 @@
 ### Hi there I'm Victor Kuria 👋
 
+<h3 align="center">I'm a Software Engineer and Avid Student!! </h3>
+<p align="center">
+<img  alt ="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 - 🔭 I’m currently working at Moringa Scool as an instructor
 - 📫 How to reach me: victorkuria7@gmail.com
