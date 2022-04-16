@@ -27,3 +27,9 @@
 <p align="left"> <a href="https://github.com/Davincii254"><img alt="github" width="30px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></a>
 <a href="www.linkedin.com/in/victor-kuria-619048190"><img alt="linkedin" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
 <a href=""><img alt="dev.to" width="30px" src="https://briancaffey.github.io/icons/dev.png"></a></p>
+
+
+## GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Davincii254&show_icons=true&locale=en&layout=compact" alt="davincii254" width="400" height="250"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Davincii254&show_icons=true&locale=en" alt="robinlashae1" width="400" height="250"/></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Davincii254" alt="Davincii254" /></a> </p>
