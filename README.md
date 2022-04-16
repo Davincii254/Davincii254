@@ -19,3 +19,8 @@
 <img alt="postman" width="40" height="40" src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667">
 <img alt="heroku" width="40" height="40" src="https://camo.githubusercontent.com/df12cb598044a3f38efc1f45e3580558c324cf8789b79487125044eeebcc4dee/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6865726f6b752f6865726f6b752d69636f6e2e737667">
 <img alt="nodejs" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></p>
+
+## Connect with me:
+<p align="left"> <a href="https://github.com/Davincii254"><img alt="github" width="30px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></a>
+<a href="www.linkedin.com/in/victor-kuria-619048190"><img alt="linkedin" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
+<a href=""><img alt="dev.to" width="30px" src="https://briancaffey.github.io/icons/dev.png"></a></p>
