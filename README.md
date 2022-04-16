@@ -6,18 +6,16 @@
 - ⚡ Fun fact: Astronomer 
 
 ## Languages and Tools
-[![](https://camo.githubusercontent.com/13a4ffd69c3eee667515dbcc013b03158b43353978ae5c90c04b4ba87a839dcd/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323130372f504e472f3531322f66696c655f747970655f7673636f64655f69636f6e5f3133303038342e706e67)](https://camo.githubusercontent.com/13a4ffd69c3eee667515dbcc013b03158b43353978ae5c90c04b4ba87a839dcd/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323130372f504e472f3531322f66696c655f747970655f7673636f64655f69636f6e5f3133303038342e706e67)
-
-[![](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-
-[![](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
-
-[![](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
-
-[![](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)
-
-[![](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)
-
-[![](https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667)](https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667)
-
-[![](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)
+<p align="left"><img alt="Visual Studio Code" width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
+<img alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+<img alt="CSS3" width="40" height="40" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png">
+<img alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img alt="React" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+<img alt="Ruby" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+<img alt="Rails" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg">
+<img alt="Bootstraps" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
+<img alt="Git" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
+<img alt="postgreSQL" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+<img alt="postman" width="40" height="40" src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667">
+<img alt="heroku" width="40" height="40" src="https://camo.githubusercontent.com/df12cb598044a3f38efc1f45e3580558c324cf8789b79487125044eeebcc4dee/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6865726f6b752f6865726f6b752d69636f6e2e737667">
+<img alt="nodejs" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></p>
