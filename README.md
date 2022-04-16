@@ -16,6 +16,7 @@
 <img alt="React" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
 <img alt="Ruby" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
 <img alt="Rails" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg">
+  <img alt="Android" width="40" height="40" src="https://imgs.search.brave.com/Ce1dgijYfmQCr-A8ej2froGHRcHtWVem7aK7DH-iCvQ/rs:fit:600:400:1/g:ce/aHR0cHM6Ly9tYXhj/ZG4uaWNvbnM4LmNv/bS9hcHAvdXBsb2Fk/cy8yMDE2LzEwL0Fu/ZHJvaWQxLnBuZw">
 <img alt="Bootstraps" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
 <img alt="Git" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
 <img alt="postgreSQL" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
