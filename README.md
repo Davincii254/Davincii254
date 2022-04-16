@@ -27,7 +27,6 @@
 ## Connect with me:
 <p align="left"> <a href="https://github.com/Davincii254"><img alt="github" width="30px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></a>
 <a href="www.linkedin.com/in/victor-kuria-619048190"><img alt="linkedin" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
-<a href=""><img alt="dev.to" width="30px" src="https://briancaffey.github.io/icons/dev.png"></a></p>
 
 
 ## GitHub Stats
