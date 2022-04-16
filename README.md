@@ -13,7 +13,7 @@
 <img alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
 <img alt="CSS3" width="40" height="40" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png">
 <img alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-<img alt="Android" width="40" height="40" src="https://imgs.search.brave.com/WPktYCqDllls4lW-KAqWzg7owe30f4go0-cfIg7UKiw/rs:fit:764:382:1/g:ce/aHR0cHM6Ly90ZWNo/Y3J1bmNoLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxNy8w/Mi9hbmRyb2lkLXN0/dWRpby1sb2dvLnBu/Zz93PTc2NA">
+<img alt="Android" width="40" height="40" src="https://imgs.search.brave.com/H_-5ZEb-mg-4rYIjtUvE3ap4gtd0YJHPgW68VPGqSIc/rs:fit:512:512:1/g:ce/aHR0cHM6Ly9jZG4u/aWNvbi1pY29ucy5j/b20vaWNvbnMyLzE0/OTUvUE5HLzUxMi9h/bmRyb2lkc3R1ZGlv/XzEwMzA0My5wbmc">
 <img alt="React" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
 <img alt="Ruby" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
 <img alt="Rails" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg">
