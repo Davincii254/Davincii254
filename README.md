@@ -4,7 +4,7 @@
 <p align="center">
 <img  alt ="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-- 🔭 I’m currently working at Moringa Scool as an instructor
+- 🔭 I’m currently working at Moringa School
 - 📫 How to reach me: victorkuria7@gmail.com
 - ⚡ Fun fact: Astronomer 
 
