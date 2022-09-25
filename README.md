@@ -6,6 +6,7 @@
 
 - 🔭 Currently working at Moringa School
 - 📫 How to reach me: victorkuria7@gmail.com
+- ⚡ LInkedIn : www.linkedin.com/in/victor-kuria-619048190
 - ⚡ Fun fact: Astronomer 
 
 ## Languages and Tools
