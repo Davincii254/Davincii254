@@ -4,7 +4,6 @@
 <p align="center">
 <img  alt ="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-- 🔭 Currently working at Moringa School
 - 📫 How to reach me: victorkuria7@gmail.com
 - ⚡ LInkedIn : www.linkedin.com/in/victor-kuria-619048190
 - ⚡ Fun fact: Astronomer 
